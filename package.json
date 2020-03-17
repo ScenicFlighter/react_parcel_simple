@@ -1,0 +1,18 @@
+{
+  "name": "react_parcel_simple",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@fleur/fleur": "^1.4.0",
+    "@fleur/react": "^3.2.0",
+    "@fleur/route-store-dom": "^2.2.0",
+    "assets": "^3.0.1",
+    "log": "^6.0.0",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  },
+  "repository": "https://github.com/ScenicFlighter/react_parcel_simple.git",
+  "author": "k-maeda <k-maeda@creative-innovation.co.jp>"
+}
